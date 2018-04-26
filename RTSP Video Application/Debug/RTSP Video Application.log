@@ -1,0 +1,35 @@
+﻿  RTSP Video Application.cpp
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(135): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(139): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(161): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(208): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(209): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(210): warning C4996: 'AVStream::codec': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavformat\avformat.h(893): note: see declaration of 'AVStream::codec'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(161): warning C4996: 'avcodec_copy_context': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(4412): note: see declaration of 'avcodec_copy_context'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(173): warning C4996: 'avpicture_get_size': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(5653): note: see declaration of 'avpicture_get_size'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(197): warning C4996: 'avpicture_get_size': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(5653): note: see declaration of 'avpicture_get_size'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(199): warning C4996: 'avpicture_fill': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(5638): note: see declaration of 'avpicture_fill'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(200): warning C4996: 'avpicture_fill': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(5638): note: see declaration of 'avpicture_fill'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(209): warning C4996: 'avcodec_copy_context': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(4412): note: see declaration of 'avcodec_copy_context'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(214): warning C4996: 'avcodec_decode_video2': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(4993): note: see declaration of 'avcodec_decode_video2'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(231): warning C4996: 'av_free_packet': was declared deprecated
+  c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\libavcodec\avcodec.h(4650): note: see declaration of 'av_free_packet'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(419): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1014): note: see declaration of 'wcstombs'
+c:\users\curtis\documents\visual studio 2017\projects\rtsp video application\rtsp video application\rtsp video application.cpp(437): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1014): note: see declaration of 'wcstombs'
+  RTSP Video Application.vcxproj -> C:\Users\Curtis\Documents\Visual Studio 2017\Projects\RTSP Video Application\Debug\RTSP Video Application.exe

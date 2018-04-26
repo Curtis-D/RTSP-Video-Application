@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  RSTP Video Application.cpp
+RSTP Video Application.cpp(22): fatal error C1083: Cannot open include file: 'avcodec.h': No such file or directory
